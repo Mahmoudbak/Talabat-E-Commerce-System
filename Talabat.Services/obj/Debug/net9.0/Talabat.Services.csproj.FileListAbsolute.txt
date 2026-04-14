@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\bin\Debug\net9.0\Talabat.Services.deps.json
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\bin\Debug\net9.0\Talabat.Services.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\bin\Debug\net9.0\Talabat.Services.pdb
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\bin\Debug\net9.0\Talabat.Core.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\bin\Debug\net9.0\Talabat.Core.pdb
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat.Services.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat.Services.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat.Services.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat.Services.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat..D0FE60AD.Up2Date
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat.Services.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\refint\Talabat.Services.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\Talabat.Services.pdb
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Services\obj\Debug\net9.0\ref\Talabat.Services.dll

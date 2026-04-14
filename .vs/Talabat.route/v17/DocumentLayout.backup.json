@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBD6253-AEAB-47B5-B796-F5C93D3FD83F}|Talabat.Repsotiory\\Talabat.Repsotiory.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.repsotiory\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBD6253-AEAB-47B5-B796-F5C93D3FD83F}|Talabat.Repsotiory\\Talabat.Repsotiory.csproj|solutionrelative:talabat.repsotiory\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6577A7F3-36BC-4D92-AA49-7244E19C478C}|Talabat.Services\\Talabat.Services.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6577A7F3-36BC-4D92-AA49-7244E19C478C}|Talabat.Services\\Talabat.Services.csproj|solutionrelative:talabat.services\\orderservice\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BBD6253-AEAB-47B5-B796-F5C93D3FD83F}|Talabat.Repsotiory\\Talabat.Repsotiory.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.repsotiory\\generic repsitory\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BBD6253-AEAB-47B5-B796-F5C93D3FD83F}|Talabat.Repsotiory\\Talabat.Repsotiory.csproj|solutionrelative:talabat.repsotiory\\generic repsitory\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.core\\repository.contrent\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\repository.contrent\\igenaricrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.core\\entity\\order aggreate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\entity\\order aggreate\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.core\\services.content\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\services.content\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.core\\entity\\order aggreate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\entity\\order aggreate\\productitemordered.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|c:\\users\\dell\\source\\repos\\talabat.route\\talabat.core\\entity\\order aggreate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE251BE-719F-47CE-B552-B7906495F335}|Talabat.Core\\Talabat.Core.csproj|solutionrelative:talabat.core\\entity\\order aggreate\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Repsotiory\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Talabat.Repsotiory\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Repsotiory\\UnitOfWork.cs",
+              "RelativeToolTip": "Talabat.Repsotiory\\UnitOfWork.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:42:58.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\IUnitOfWork.cs",
+              "RelativeToolTip": "Talabat.Core\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:29:55.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Repsotiory\\Generic Repsitory\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Repsotiory\\Generic Repsitory\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Repsotiory\\Generic Repsitory\\GenericRepository.cs",
+              "RelativeToolTip": "Talabat.Repsotiory\\Generic Repsitory\\GenericRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwD4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:07:57.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IGenaricrepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Repository.contrent\\IGenaricrepository.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Repository.contrent\\IGenaricrepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Repository.contrent\\IGenaricrepository.cs",
+              "RelativeToolTip": "Talabat.Core\\Repository.contrent\\IGenaricrepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBYAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T09:02:02.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Entity\\Order Aggreate\\Order.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Entity\\Order Aggreate\\Order.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Entity\\Order Aggreate\\Order.cs",
+              "RelativeToolTip": "Talabat.Core\\Entity\\Order Aggreate\\Order.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T08:25:05.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Entity\\Order Aggreate\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Entity\\Order Aggreate\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Entity\\Order Aggreate\\OrderItem.cs",
+              "RelativeToolTip": "Talabat.Core\\Entity\\Order Aggreate\\OrderItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:59:36.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductItemOrdered.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Entity\\Order Aggreate\\ProductItemOrdered.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Entity\\Order Aggreate\\ProductItemOrdered.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Entity\\Order Aggreate\\ProductItemOrdered.cs",
+              "RelativeToolTip": "Talabat.Core\\Entity\\Order Aggreate\\ProductItemOrdered.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:57:08.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Services\\OrderService\\OrderService.cs",
+              "RelativeDocumentMoniker": "Talabat.Services\\OrderService\\OrderService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Services\\OrderService\\OrderService.cs",
+              "RelativeToolTip": "Talabat.Services\\OrderService\\OrderService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:40:46.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Services.Content\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Talabat.Core\\Services.Content\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Talabat.route\\Talabat.Core\\Services.Content\\IOrderService.cs",
+              "RelativeToolTip": "Talabat.Core\\Services.Content\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-07T07:24:20.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\bin\Debug\net9.0\Talabat.Repsotiory.deps.json
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\bin\Debug\net9.0\Talabat.Repsotiory.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\bin\Debug\net9.0\Talabat.Repsotiory.pdb
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\bin\Debug\net9.0\Talabat.Core.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\bin\Debug\net9.0\Talabat.Core.pdb
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat.Repsotiory.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat.Repsotiory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat.Repsotiory.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat.Repsotiory.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat.Repsotiory.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat..269E4C88.Up2Date
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat.Repsotiory.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\refint\Talabat.Repsotiory.dll
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\Talabat.Repsotiory.pdb
+C:\Users\DELL\source\repos\Talabat.route\Talabat.Repsotiory\obj\Debug\net9.0\ref\Talabat.Repsotiory.dll
